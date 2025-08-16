@@ -55,4 +55,3 @@ This project is a logic simulation for an **automated pet feeder system**, devel
 - University of Canberra – Introduction to Information Technology (IIT) Course
 - Microsoft Copilot – for logic refinement, documentation, and AI integration
 - Draw.io – for flowchart creation
-- Arduino Community – for hardware inspiration
